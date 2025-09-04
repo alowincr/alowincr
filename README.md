@@ -1,9 +1,9 @@
-<h1 align="center"><b>Hola, soy Alonso Carbajal — Full Stack en formación👋</b></h1>
+<h1 align="center"><b>Hola, soy Alonso Carbajal👋</b></h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alowincr&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="left">
-🎓 Estudiante de Ingeniería de Sistemas — 7mo ciclo <br>
+🎓 Estudiante de Ingeniería de Sistemas — 8vo ciclo <br>
 💻 Full Stack en formación | Java | React | Python | SQL <br>
 🚀 Apasionado por la tecnología, los proyectos prácticos y el aprendizaje autónomo <br>
 </p>
