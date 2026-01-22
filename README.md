@@ -4,7 +4,7 @@
 
 <p align="left">
 🎓 Estudiante de Ingeniería de Sistemas — 8vo ciclo <br>
-💻 Full Stack en formación | Java | React | Python | SQL <br>
+💻 Full Stack en formación | Java | Spring Boot | React | Python | SQL <br>
 🚀 Apasionado por la tecnología, los proyectos prácticos y el aprendizaje autónomo <br>
 </p>
 
