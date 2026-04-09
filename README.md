@@ -75,42 +75,61 @@ Actualmente fortalezco mi formación con aprendizaje continuo, proyectos prácti
 
 ## 🌟 Proyecto Destacado
 
-# 🎓 EduRate
+### 🎓 EduRate
+Plataforma web de evaluación docente universitaria, anónima y confiable. Los estudiantes evalúan a sus profesores con criterios objetivos, sistema anti-tóxico automático y ranking en tiempo real.
 
-Plataforma web orientada a optimizar procesos de evaluación y análisis educativo mediante una experiencia moderna, intuitiva y escalable.
+**Stack:**
+| Capa | Tecnología |
+|------|-----------|
+| Frontend | Next.js 15 (App Router) + React + TypeScript |
+| Estilos | Tailwind CSS v4 + sistema de diseño propio |
+| Auth | Supabase Auth (Magic Link — sin contraseñas) |
+| Backend / BaaS | Supabase (PostgreSQL, RLS, Triggers) |
+| API | Next.js API Routes (REST) |
+| Sesiones | @supabase/ssr (cookies SSR) |
+| Deploy | Vercel |
 
-### Características
-- Arquitectura Full Stack moderna
-- Dashboard interactivo y responsive
-- Gestión de autenticación y roles
-- Integración con base de datos en la nube
-- Experiencia UX enfocada en productividad
+**Características principales:**
+- 🔒 Autenticación por correo institucional con Magic Link
+- ⭐ Evaluación por 6 criterios objetivos con promedio automático
+- 🛡️ Moderación anti-tóxico automática de comentarios
+- 📊 Ranking de profesores mejor y peor valorados
+- 🚩 Sistema de reportes con panel de administración
+- 👤 Panel del estudiante con edición y eliminación de evaluaciones
 
-### Tecnologías
-`Next.js` • `React` • `Supabase` • `PostgreSQL` • `Tailwind CSS`
+🔗 [Ver proyecto](https://edurate-zeta.vercel.app) • [Código fuente](https://github.com/alowincr/edurate)
 
 ---
 
 ## 📂 Otros Proyectos
 
-### 📦 Sistema de Gestión de Almacén
-Aplicación web para administración de inventario, stock y productos utilizando arquitectura por capas y operaciones CRUD completas.
+### ✅ Habity
+Aplicación web de seguimiento de hábitos diseñada para ayudar a los usuarios a construir consistencia, monitorear su progreso y mejorar su disciplina diaria.
 
-**Stack:** Java • Spring Boot • MySQL
+**Stack:**
 
----
+| Capa | Tecnología |
+|------|-----------|
+| Frontend | Next.js 16 (App Router) + React + TypeScript |
+| Estilos | Tailwind CSS + estilos en línea con sistema de temas |
+| Backend / BaaS | Supabase (Auth, PostgreSQL, Storage, RLS) |
+| Gráficos | Recharts |
+| PDF | jsPDF |
+| Imágenes | Next/Image |
+| Deploy | Vercel |
 
-### 🎵 Melodify
-Plataforma web de recomendaciones musicales diseñada para ofrecer una experiencia atractiva e interactiva de descubrimiento musical.
-
-**Stack:** React • JavaScript • CSS
-
----
-
-### ✅ HabitFlow
-Aplicación de seguimiento de hábitos con retos, niveles, XP y sistema de gamificación orientado a productividad personal.
-
-**Stack:** Next.js • Supabase • PostgreSQL
+**Características principales:**
+- 🔐 Sistema completo de autenticación y sesiones protegidas con Supabase SSR
+- 📊 Dashboard inteligente con métricas de progreso y analytics de hábitos
+- 📅 Calendario visual tipo heatmap para seguimiento histórico diario
+- 🔥 Motor de rachas con cálculo de streak actual y récord personal
+- 📝 Bitácora de progreso con notas contextuales por hábito completado
+- 🎨 Experiencia personalizada con soporte Dark/Light Mode persistente
+- 📄 Generación automática de reportes PDF exportables
+- 👤 Gestión de perfil y avatar con almacenamiento en Supabase Storage
+- 🧠 API interna de frases motivacionales para engagement diario
+- 🛡️ Seguridad avanzada mediante políticas RLS por usuario
+- 📱 Diseño responsive mobile-first
 
 ---
 
