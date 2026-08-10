@@ -1,11 +1,32 @@
-<h1 align="center">👋 Hola, soy Alonso Carbajal</h1>
+<h1 align="center"> Hola, soy Alonso Carbajal</h1>
 
 <h3 align="center">
-Estudiante de Ingeniería de Sistemas e Informática • Full Stack Developer en formación 
+Estudiante de Ingeniería de Sistemas e Informática • Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alowincr&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=alowincr&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Visitas" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alowincr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alowincr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alowincr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Gráfico de Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alowincr&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -22,141 +43,80 @@ Actualmente fortalezco mi formación con aprendizaje continuo, proyectos prácti
 
 ## 💻 Stack Tecnológico
 
-### Lenguajes de Programación
-
+### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
----
-
-### Backend Development
-
+### Backend & Bases de Datos
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-
----
-
-### Bases de Datos / Backend Services
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
-
-### Herramientas & Plataformas
-
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
 
 ---
 
-## 🌟 Proyecto Destacado
+## 🌟 Proyectos Destacados
 
-### 🎓 EduRate
-Plataforma web de evaluación docente universitaria, anónima y confiable. Los estudiantes evalúan a sus profesores con criterios objetivos, sistema anti-tóxico automático y ranking en tiempo real.
-
-**Stack:**
-| Capa | Tecnología |
-|------|-----------|
-| Frontend | Next.js 15 (App Router) + React + TypeScript |
-| Estilos | Tailwind CSS v4 + sistema de diseño propio |
-| Auth | Supabase Auth (Magic Link — sin contraseñas) |
-| Backend / BaaS | Supabase (PostgreSQL, RLS, Triggers) |
-| API | Next.js API Routes (REST) |
-| Sesiones | @supabase/ssr (cookies SSR) |
-| Deploy | Vercel |
-
-**Características principales:**
-- 🔒 Autenticación por correo institucional con Magic Link
-- ⭐ Evaluación por 6 criterios objetivos con promedio automático
-- 🛡️ Moderación anti-tóxico automática de comentarios
-- 📊 Ranking de profesores mejor y peor valorados
-- 🚩 Sistema de reportes con panel de administración
-- 👤 Panel del estudiante con edición y eliminación de evaluaciones
-
-🔗 [Ver proyecto](https://edurate-zeta.vercel.app) • [Código fuente](https://github.com/alowincr/edurate)
-
----
-
-## 📂 Otros Proyectos
-
-### ✅ Habity
-Aplicación web de seguimiento de hábitos diseñada para ayudar a los usuarios a construir consistencia, monitorear su progreso y mejorar su disciplina diaria.
-
-**Stack:**
-
-| Capa | Tecnología |
-|------|-----------|
-| Frontend | Next.js 16 (App Router) + React + TypeScript |
-| Estilos | Tailwind CSS + estilos en línea con sistema de temas |
-| Backend / BaaS | Supabase (Auth, PostgreSQL, Storage, RLS) |
-| Gráficos | Recharts |
-| PDF | jsPDF |
-| Imágenes | Next/Image |
-| Deploy | Vercel |
-
-**Características principales:**
-- 🔐 Sistema completo de autenticación y sesiones protegidas con Supabase SSR
-- 📊 Dashboard inteligente con métricas de progreso y analytics de hábitos
-- 📅 Calendario visual tipo heatmap para seguimiento histórico diario
-- 🔥 Motor de rachas con cálculo de streak actual y récord personal
-- 📝 Bitácora de progreso con notas contextuales por hábito completado
-- 🎨 Experiencia personalizada con soporte Dark/Light Mode persistente
-- 📄 Generación automática de reportes PDF exportables
-- 👤 Gestión de perfil y avatar con almacenamiento en Supabase Storage
-- 🧠 API interna de frases motivacionales para engagement diario
-- 🛡️ Seguridad avanzada mediante políticas RLS por usuario
-- 📱 Diseño responsive mobile-first
-
----
-
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alowincr&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alowincr&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Actividad de Contribución
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alowincr&theme=tokyo-night&hide_border=true"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 EduRate</h3>
+      <p align="center">Plataforma web de evaluación docente universitaria, anónima y confiable con ranking en tiempo real y moderación automática.</p>
+      <p align="center">
+        <b>Tech Stack:</b><br/>
+        <code>Next.js 15</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Supabase</code>
+      </p>
+      <p align="center">
+        <a href="https://edurate-zeta.vercel.app">🔗 Ver Demo</a> | 
+        <a href="https://github.com/alowincr/edurate">💻 Código</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✅ Habity</h3>
+      <p align="center">Aplicación web de seguimiento de hábitos para monitorear progreso, métricas de disciplina y análisis mediante calendarios visuales.</p>
+      <p align="center">
+        <b>Tech Stack:</b><br/>
+        <code>Next.js 16</code> • <code>React</code> • <code>Recharts</code> • <code>Supabase SSR</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/alowincr">💻 Código en GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 Conectemos
 
-<p>
-<a href="https://www.linkedin.com/in/alonso-carbajal-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alonso-carbajal-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alonso@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 🚀
+  <i>Gracias por visitar mi perfil 🚀</i>
 </p>
