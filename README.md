@@ -1,33 +1,8 @@
-<h1 align="center"> Hola, soy Alonso Carbajal</h1>
+<h1 align="center">👋 Hola, soy Alonso Carbajal</h1>
 
 <h3 align="center">
 Estudiante de Ingeniería de Sistemas e Informática • Full Stack Developer
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alowincr&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Visitas" />
-</p>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alowincr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alowincr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alowincr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Gráfico de Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alowincr&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 ---
 
@@ -104,15 +79,37 @@ Actualmente fortalezco mi formación con aprendizaje continuo, proyectos prácti
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alowincr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alowincr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alowincr&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+</p>
+
+---
+
+## 📈 Gráfico de Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alowincr&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de actividad" />
+</p>
+
+---
+
 ## 🤝 Conectemos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alonso-carbajal-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:alonso@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alowincr&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Visitas" />
 </p>
 
 ---
