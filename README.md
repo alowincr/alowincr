@@ -82,8 +82,8 @@ Actualmente fortalezco mi formación con aprendizaje continuo, proyectos prácti
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alowincr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alowincr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alowincr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alowincr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
