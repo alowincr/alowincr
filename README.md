@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Alonso Carbajal</h1>
 
 <h3 align="center">
-Estudiante de Ingeniería de Sistemas e Informática • Full Stack Developer
+Estudiante de Ingeniería de Sistemas e Informática 
 </h3>
 
 ---
@@ -14,7 +14,7 @@ Estudiante de Ingeniería de Sistemas e Informática • Full Stack Developer
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas (9no ciclo)** apasionado por el desarrollo de software, la arquitectura de aplicaciones y la innovación tecnológica.
+Soy estudiante de **Ingeniería de Sistemas (10mo ciclo)** apasionado por el desarrollo de software, la arquitectura de aplicaciones y la innovación tecnológica.
 
 Me especializo en la construcción de aplicaciones web modernas, combinando frontend atractivo con backend sólido y bases de datos bien estructuradas.
 
