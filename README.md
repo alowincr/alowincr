@@ -4,8 +4,6 @@ Estudiante de Ingeniería de Sistemas (10.º ciclo) · Desarrollo de Software ·
 
 Lima, Perú · Buscando prácticas preprofesionales (presencial, híbrido o remoto)
 
-[LinkedIn](https://www.linkedin.com/in/alonso-carbajal-dev/)
-
 ---
 
 ## Sobre mí
