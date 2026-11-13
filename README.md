@@ -2,7 +2,7 @@
 
 Estudiante de Ingeniería de Sistemas (10.º ciclo) · Desarrollo de Software · Análisis de Datos · UX/UI
 
-Lima, Perú · Buscando prácticas preprofesionales (presencial, híbrido o remoto)
+Lima, Perú · Buscando prácticas preprofesionales (presencial, híbrido o remoto) · [Portafolio](https://alonso-carbajal-portafolio.netlify.app/)
 
 ---
 
@@ -39,6 +39,16 @@ Next.js 15 · TypeScript · Tailwind CSS · Supabase
 **Habity**: aplicación de seguimiento de hábitos con métricas de disciplina y análisis de progreso mediante calendarios visuales.
 Next.js 16 · React · Recharts · Supabase SSR
 [Demo](https://habity-jet.vercel.app/) · [Código](https://github.com/alowincr/habity)
+
+---
+
+## Certificaciones
+
+- **Oracle Cloud Infrastructure Certified AI Foundations Associate** · Oracle (2026)
+- **Google Cloud Data Analytics Certificate** · Google Cloud (2026)
+- **Oracle Cloud Infrastructure 2025 Foundations Associate** · Oracle (2026)
+- **Programa ONE Tech Foundation G9 - Back End** · Oracle & Alura Latam (2026)
+- **Responsive Web Design** · freeCodeCamp (2025)
 
 ---
 
