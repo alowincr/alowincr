@@ -23,14 +23,17 @@ Estudiante de Ingeniería de Sistemas enfocado en el desarrollo de software y la
 | | |
 |---|---|
 | **Lenguajes** | <img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="Java, JavaScript, TypeScript, Python" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Next.js, React, Tailwind CSS" /> |
-| **Backend y datos** | <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,supabase,firebase" alt="Spring Boot, PostgreSQL, MySQL, Supabase, Firebase" /> |
-| **Diseño y análisis** | <img src="https://skillicons.dev/icons?i=figma,powerbi" alt="Figma, Power BI" /> |
-| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" alt="Git, GitHub, Vercel, Postman, VS Code" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" alt="Next.js, React, Tailwind CSS, HTML, CSS" /> |
+| **Backend y datos** | <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,prisma,supabase" alt="Spring Boot, Node.js, PostgreSQL, MySQL, Prisma, Supabase" /> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,postman,vscode" alt="Git, GitHub, Docker, Figma, Vercel, Postman, VS Code" /> |
 
 ---
 
 ## Proyectos
+
+**ChanlieVet**: plataforma integral de gestión veterinaria con tienda, agendamiento de citas con control de concurrencia, sala de espera en tiempo real y paneles para administración y personal médico.
+Next.js 16 · Express 5 · PostgreSQL · Prisma · Socket.io · Docker
+[Demo](https://chanlievet.vercel.app/) · [Código](https://github.com/alowincr/chanlievet)
 
 **EduRate**: plataforma web de evaluación docente universitaria, anónima, con ranking en tiempo real y moderación automática.
 Next.js 15 · TypeScript · Tailwind CSS · Supabase
