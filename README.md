@@ -1,6 +1,6 @@
 # Alonso Carbajal
 
-Estudiante de Ingeniería de Sistemas (10.º ciclo) · Desarrollo de Software · Análisis de Datos · UX/UI
+Desarrollador fullstack · Next.js, TypeScript y Spring Boot · Estudiante de Ingeniería de Sistemas (último ciclo)
 
 Lima, Perú · Buscando prácticas preprofesionales (presencial, híbrido o remoto) · [Portafolio](https://alonso-carbajal-portafolio.netlify.app/)
 
@@ -10,10 +10,10 @@ Lima, Perú · Buscando prácticas preprofesionales (presencial, híbrido o remo
 
 Estudiante de Ingeniería de Sistemas enfocado en el desarrollo de software y las soluciones tecnológicas. Me gusta identificar problemas reales y proponer mejoras que optimicen procesos, y me mantengo en aprendizaje constante para adaptarme rápido a los cambios del sector.
 
-- **Desarrollo web:** Java, Spring Boot y Next.js, con bases de datos MySQL, PostgreSQL y Supabase.
-- **Diseño y datos:** UX/UI en Figma, pruebas de usabilidad en Maze y análisis de datos con Python, Power BI y Lingo.
-- **Gestión de TI:** PMBOK, Scrum, ITIL v4 y COBIT.
-- **Calidad y seguridad:** ISO 9001, ISO 25010 e ISO 27001.
+- **Desarrollo web:** Java, Spring Boot, Next.js y Express, con PostgreSQL, MySQL y Supabase.
+- **Datos:** análisis de datos con Python y Power BI.
+- **Diseño:** UX/UI en Figma y pruebas de usabilidad en Maze.
+- **Gestión y calidad:** Scrum, PMBOK, ITIL v4, COBIT, ISO 9001, ISO 25010 e ISO 27001.
 - **Formación complementaria:** Oracle Next Education (ONE) y Alura Latam, en backend e inteligencia artificial.
 
 ---
@@ -31,17 +31,36 @@ Estudiante de Ingeniería de Sistemas enfocado en el desarrollo de software y la
 
 ## Proyectos
 
-**ChanlieVet**: plataforma integral de gestión veterinaria con tienda, agendamiento de citas con control de concurrencia, sala de espera en tiempo real y paneles para administración y personal médico.
-Next.js 16 · Express 5 · PostgreSQL · Prisma · Socket.io · Docker
-[Demo](https://chanlievet.vercel.app/) · [Código](https://github.com/alowincr/chanlievet)
+**ChanlieVet**
+- Plataforma integral de gestión veterinaria con tienda, agendamiento de citas con control de concurrencia, sala de espera en tiempo real y paneles para administración y personal médico.
+- **Stack:** Next.js 16 · Express 5 · PostgreSQL · Prisma · Socket.io · Docker
+- [Demo](https://chanlievet.vercel.app/) · [Código](https://github.com/alowincr/chanlievet)
 
-**EduRate**: plataforma web de evaluación docente universitaria, anónima, con ranking en tiempo real y moderación automática.
-Next.js 15 · TypeScript · Tailwind CSS · Supabase
-[Demo](https://edurate-zeta.vercel.app) · [Código](https://github.com/alowincr/edurate)
+**EduRate**
+- Plataforma web de evaluación docente universitaria, anónima, con ranking en tiempo real y moderación automática.
+- **Stack:** Next.js 15 · TypeScript · Tailwind CSS · Supabase
+- [Demo](https://edurate-zeta.vercel.app) · [Código](https://github.com/alowincr/edurate)
 
-**Habity**: aplicación de seguimiento de hábitos con métricas de disciplina y análisis de progreso mediante calendarios visuales.
-Next.js 16 · React · Recharts · Supabase SSR
-[Demo](https://habity-jet.vercel.app/) · [Código](https://github.com/alowincr/habity)
+**Habity**
+- Aplicación de seguimiento de hábitos con métricas de disciplina y análisis de progreso mediante calendarios visuales.
+- **Stack:** Next.js 16 · React · Recharts · Supabase SSR
+- [Demo](https://habity-jet.vercel.app/) · [Código](https://github.com/alowincr/habity)
+
+---
+
+## Hackatones
+
+**MediFlow** · No Country · equipo de 8
+- Agente autónomo de triaje clínico que clasifica documentos médicos (PDF, imagen, texto) con LangGraph y Google Gemini y los enruta a la cola correcta. Los casos ambiguos pasan a revisión humana (Human-in-the-Loop).
+- **Mi rol (full stack):** repositorio de auditoría y trazabilidad sobre PostgreSQL, APIs de coordinación y métricas de triaje, contratos OpenAPI y pruebas.
+- **Stack:** Python · FastAPI · LangGraph · PostgreSQL · React · Docker
+- [Código](https://github.com/No-Country-simulation/G10-LATAM-TEAM-02-MediFlowI-Agente-IA)
+
+**EnergiAI** · No Country · equipo de 5
+- Solución que analiza patrones de consumo eléctrico y genera recomendaciones para mejorar la eficiencia energética.
+- **Mi rol (frontend):** interfaz del MVP con formulario de consumo, gráfico, semáforo de eficiencia, tarjeta de costo, recomendaciones e historial de análisis, más pruebas e integración con la API.
+- **Stack:** React · Vite · Tailwind CSS
+- [Código](https://github.com/No-Country-simulation/EnergiAI-G9-Latam-Team15)
 
 ---
 
